@@ -35,7 +35,6 @@ export default {
       sSearch: '',
       sSortKey: 'name',
       bReverse: false,
-      ssSearch: "",
       bTablesSearch: false,
     }
   },
